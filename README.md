@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-### I'm Minh-Hieu Le, Student at 👨‍💻 VNUHCM-University of Science. I am a tech and management enthusiast, Would love to be a Web Dev and see myself as a Software Engineer in my later career.
+### I'm Minh-Hieu Le, Student at 👨‍💻 VNUHCM-University of Science. I am a tech and management enthusiast,I see myself as a full-stack software engineer in the future and try hard to learn as many knowledge as I can.
 -------
   
 ## 🧐 About
