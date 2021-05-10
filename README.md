@@ -1,4 +1,4 @@
-# Lê Minh Hiếu 👨‍💻
+# Minh-Hieu Le 👨‍💻
 
 [![Facebook Badge](https://img.shields.io/badge/-Lê_Minh_Hiếu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/minhhieu.le.7773/)](https://www.facebook.com/minhhieu.le.7773/)
 [![Linkedin Badge](https://img.shields.io/badge/-Hiếu_Lê-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiếu-lê-22128813a/)](https://www.linkedin.com/in/hiếu-lê-22128813a/)
@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-### I'm Lê Minh Hiếu, Student at 👨‍💻 VNUHCM-University of Science. I am a tech and management enthusiast, Would love to be a Web Dev and see myself as a Software Engineer in my later career.
+### I'm Minh-Hieu Le, Student at 👨‍💻 VNUHCM-University of Science. I am a tech and management enthusiast, Would love to be a Web Dev and see myself as a Software Engineer in my later career.
 -------
   
 ## 🧐 About
