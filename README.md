@@ -1,7 +1,7 @@
 # Minh-Hieu Le 👨‍💻
 
 [![Facebook Badge](https://img.shields.io/badge/-Lê_Minh_Hiếu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hieulm2k/)](https://www.facebook.com/hieulm2k/)
-[![Linkedin Badge](https://img.shields.io/badge/-Hiếu_Lê-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieulm2k/)](https://www.linkedin.com/in/hiếu-lê-22128813a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hiếu_Lê-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieulm2k/)](https://www.linkedin.com/in/hieulm2k/)
 [![GitHub followers](https://img.shields.io/github/followers/hieulm2k?label=Follow&style=social)](https://github.com/hieulm2k/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-leminhhieust@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leminhhieust@gmail.com)](mailto:leminhhieust@gmail.com)
 ---
